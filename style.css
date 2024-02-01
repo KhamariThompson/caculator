@@ -14,6 +14,12 @@
   justify-content: center;
 }
 
+h1 h2 {
+  background: #e3f9ff;
+  font-family: "Poppins", "sans-serif";
+  text-align: center;
+}
+
 .caculator {
   background: #3a4452;
   padding: 20px;
